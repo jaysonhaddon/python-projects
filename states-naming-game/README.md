@@ -1,0 +1,2 @@
+# states-naming-game
+This is a game built using the Turtle module. The goal is to try and name all 50 States. Progess is saved to a local CSV file. You can load a save or start a new game each time the program is run. 
